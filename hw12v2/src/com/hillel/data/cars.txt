@@ -1,0 +1,10 @@
+Skoda,Octavia,5.1,120,20000,1.9,Hatchback;
+Audi,A5 Sportback,5.0,129,33757,2.0,Hatchback;
+Mitsubishi,Outlander,7.2,160,36990,227,Suv;
+Kia,Sportage,6.6,182,23067,135,Suv;
+Chevrolet,Silverado,6.2,149,35000,4,Truck;
+Tayota,Tacoma,11.2,160,30000,2,Truck;
+Lexus,CT 200h,6.4,149,23759,2.1,Hatchback;
+Lexus,CT 250h,8.4,150,23000,3.1,Hatchback;
+Lexus,CT 300h,12.4,130,28000,4.1,Hatchback;
+Tayota,Tacoma,14.2,160,35000,2,Truck;

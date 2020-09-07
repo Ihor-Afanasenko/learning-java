@@ -1,0 +1,25 @@
+Total price taxi station: 202573$. 
+
+List cars sorted by fuel consumption: 
+Hatchback: mark 
+Audi, model A5 Sportback, price 33757$, max speed 129 kmh, fuel consumption 5.0 l/100 km, engine capacity 2.0 l.
+Hatchback: mark Skoda, model Octavia, price 20000$, max speed 120 kmh, fuel consumption 5.1 l/100 km, engine capacity 1.9 l.
+Truck: mark 
+Chevrolet, model Silverado, price 35000$, max speed 149 kmh, fuel consumption 6.2 l/100 km, door number 4.
+Hatchback: mark 
+Lexus, model CT 200h, price 23759$, max speed 149 kmh, fuel consumption 6.4 l/100 km, engine capacity 2.1 l.
+Suv: mark 
+Kia, model Sportage, price 23067$, max speed 182 kmh, fuel consumption 6.6 l/100 km, power 135 horse.
+Suv: mark 
+Mitsubishi, model Outlander, price 36990$, max speed 160 kmh, fuel consumption 7.2 l/100 km, power 227 horse.
+Truck: mark 
+Tayota, model Tacoma, price 30000$, max speed 160 kmh, fuel consumption 11.2 l/100 km, door number 2.
+
+List cars which maximum speed between 100 and 150 kmh:
+Hatchback: mark 
+Audi, model A5 Sportback, price 33757$, max speed 129 kmh, fuel consumption 5.0 l/100 km, engine capacity 2.0 l.
+Hatchback: mark Skoda, model Octavia, price 20000$, max speed 120 kmh, fuel consumption 5.1 l/100 km, engine capacity 1.9 l.
+Truck: mark 
+Chevrolet, model Silverado, price 35000$, max speed 149 kmh, fuel consumption 6.2 l/100 km, door number 4.
+Hatchback: mark 
+Lexus, model CT 200h, price 23759$, max speed 149 kmh, fuel consumption 6.4 l/100 km, engine capacity 2.1 l.

@@ -1,0 +1,10 @@
+Main.class
+com\hillel\db\ConnectorDB.class
+com\hillel\interfaces\Library.class
+com\hillel\impl\VideoLibrary.class
+com\hillel\impl\Film.class
+com\hillel\db\DBHelper.class
+com\hillel\impl\Actor.class
+com\hillel\impl\People.class
+com\hillel\impl\Director.class
+com\hillel\impl\Entity.class

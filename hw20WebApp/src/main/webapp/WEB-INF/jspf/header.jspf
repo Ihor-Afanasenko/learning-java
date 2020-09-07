@@ -1,0 +1,17 @@
+<html>
+<body>
+	<center>
+		<h2>Welcome to Video library!</h2>
+	</center>
+	<p>
+		<a href="/findFilmsByYear">Find all of the films were released in
+			the current or previous year</a><br> <a href="/findActorsByFilm">Find
+			actors who shot in the given films</a><br> <a
+			href="/findActorsShotNfilms">Find actors who shot in at least
+			given films</a><br> <a href="/findActorsWhoWasDirector">Find
+			actors who were directors of at least one of the films</a><br> <a
+			href="/removeFilmsByYear">Remove all the films, the release date
+			of which has a given number of years ago</a><br>
+	</p>
+</body>
+</html>

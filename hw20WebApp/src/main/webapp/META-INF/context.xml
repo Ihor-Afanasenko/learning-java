@@ -1,0 +1,6 @@
+<Context>
+	<Resource name="jdbc/video_library" author="Container"
+		type="javax.sql.DataSource" username="root" password="11998866fan"
+		driverClassName="com.mysql.jdbc.Driver"
+		url="jdbc:mysql://localhost:3306/video_library?autoReconnect=true&amp;useSSL=false" />
+</Context>
